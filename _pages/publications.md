@@ -28,6 +28,4 @@ author_profile: true
 
 - **“Logging Policy, Forest Cover, and Insurgent Violence in Afghanistan”** (with Christopher Blair)
 
-- **“Ephedra and Conflict in Afghanistan”** (with Christopher Blair)
-
 - **“Rain, Terrain, and Insurgent Activity: Evidence from Operation Popeye and the Vietnam War”** 
